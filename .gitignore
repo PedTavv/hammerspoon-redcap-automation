@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Patient / extracted data - never commit
+*.csv
+*.xlsx
+*.json
+
+# Logs
+*.log
